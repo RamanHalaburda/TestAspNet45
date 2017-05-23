@@ -1,0 +1,6 @@
+E:\study\PREPARE_TO_BYTEPROTECT\proj\TestAspNet45\TestAspNet45\TestAspNet45\bin\TestAspNet45.dll.config
+E:\study\PREPARE_TO_BYTEPROTECT\proj\TestAspNet45\TestAspNet45\TestAspNet45\bin\TestAspNet45.dll
+E:\study\PREPARE_TO_BYTEPROTECT\proj\TestAspNet45\TestAspNet45\TestAspNet45\bin\TestAspNet45.pdb
+E:\study\PREPARE_TO_BYTEPROTECT\proj\TestAspNet45\TestAspNet45\TestAspNet45\obj\Debug\TestAspNet45.csprojResolveAssemblyReference.cache
+E:\study\PREPARE_TO_BYTEPROTECT\proj\TestAspNet45\TestAspNet45\TestAspNet45\obj\Debug\TestAspNet45.dll
+E:\study\PREPARE_TO_BYTEPROTECT\proj\TestAspNet45\TestAspNet45\TestAspNet45\obj\Debug\TestAspNet45.pdb
